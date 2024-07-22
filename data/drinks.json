@@ -1,0 +1,85 @@
+{
+    "result":[
+        {
+            "drinkName": "Lavender Oatmilk Latte",
+            "image": "https://globalassets.starbucks.com/digitalassets/products/bev/LavenderOatmilkLatte.jpg",
+            "price": 2.99
+        },
+        {
+            "drinkName": "Iced White Chocolate Mocha",
+            "image": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190607_IcedWhiteChocolateMocha.jpg",
+            "price": 2.49
+        },
+        {
+            "drinkName": "Iced Lavender Oatmilk Latte",
+            "image": "https://globalassets.starbucks.com/digitalassets/products/bev/IcedLavenderOatmilkLatte.jpg",
+            "price": 2.49
+        },
+        {
+            "drinkName": "Iced Caffè Americano",
+            "image": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190607_IcedCaffeAmericano.jpg",
+            "price": 2.49
+        },
+        {
+            "drinkName": "Iced Shaken Espresso",
+            "image": "https://globalassets.starbucks.com/digitalassets/products/bev/IcedHazelnutOatmilkShakenEspresso.jpg",
+            "price": 2.49 
+        },
+        {
+            "drinkName": "Iced Caffè Latte",
+            "image": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190607_IcedCaffeLatte.jpg",
+            "price": 2.49 
+        },
+        {
+            "drinkName": "Caramel Macchiato",
+            "image": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20211029_CaramelMacchiato.jpg?impolicy=1by1_wide_topcrop_630",
+            "price": 3.49 
+        },
+        {
+            "drinkName": "Iced Matcha Latte",
+            "image": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20181127_IcedMatchaGreenTeaLatte.jpg?impolicy=1by1_wide_topcrop_630",
+            "price": 2.99 
+        },
+        {
+            "drinkName": "Cold Brew Coffee",
+            "image": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20210611_ColdBrew.jpg?impolicy=1by1_wide_topcrop_630",
+            "price": 2.99 
+        },
+        {
+            "drinkName": "Iced Chai Latte",
+            "image": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20220810_IcedChaiTeaLatte.jpg?impolicy=1by1_wide_topcrop_630",
+            "price": 2.49 
+        },
+        {
+            "drinkName": "Pumpkin Spice Latte",
+            "image": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20220411_PumpkinSpiceLatte.jpg?impolicy=1by1_wide_topcrop_630",
+            "price": 3.99 
+        },
+        {
+            "drinkName": "Espresso",
+            "image": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_EspressoMacchiato.jpg?impolicy=1by1_wide_topcrop_630",
+            "price": 2.45
+        },
+        {
+            "drinkName": "Lava Chip",
+            "image": "https://media.pickaroo.com/media/thumb/variant_photos/2022/11/1/mRHVSu6om2Tu5nZPpKy7dP_watermark_400.jpg",
+            "price": 3.45
+        },
+        {
+            "drinkName": "Strawberry Crème Frappuccino®",
+            "image": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20220323_StrawberryFrapp.jpg?impolicy=1by1_wide_topcrop_630",
+            "price": 4.95
+        },
+        {
+            "drinkName": "Green Tea Latte",
+            "image": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20181127_IcedMatchaGreenTeaLatte.jpg?impolicy=1by1_wide_topcrop_630",
+            "price": 3.85
+        }
+        
+
+    ]
+
+
+    
+    
+}
